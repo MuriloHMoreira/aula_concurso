@@ -158,6 +158,13 @@ The reveal.js configuration can be found in index.html
 
 ===============================================================================
 
+
+<!-- .slide: data-background-image="assets/Slide28.jpeg" data-background-size="contain" data-background-color="#000000" -->
+
+
+===============================================================================
+
+
 <!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
 
 <div class="r-stretch centered">
