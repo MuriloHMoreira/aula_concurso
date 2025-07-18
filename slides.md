@@ -190,6 +190,6 @@ está licenciado sob a <br> [Creative Commons Attribution 4.0 International Lice
 </div>
 <div class="footnote dark">
 
-Essa apresentação em [reveal.js](https://revealjs.com) é baseada no [Templete](https://github.com/leouieda/talk-template) do [Prof. Dr. Leonardo Ueida](https://www.leouieda.com).
+O código da apresentação em [reveal.js](https://revealjs.com) é baseada no [Templete](https://github.com/leouieda/talk-template) do [Prof. Dr. Leonardo Ueida](https://www.leouieda.com).
 
 </div>
